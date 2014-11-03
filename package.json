@@ -1,0 +1,22 @@
+{
+  "name": "StreamsReading",
+  "version": "1.0.0",
+  "description": "StreamsReading ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thewillhuang/StreamsReading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewillhuang/StreamsReading/issues"
+  },
+  "homepage": "https://github.com/thewillhuang/StreamsReading",
+  "dependencies": {
+    "express": "^4.10.1",
+  }
+}
