@@ -1,0 +1,8 @@
+this
+is
+being
+streamed
+into
+file.txt
+live
+amazing
